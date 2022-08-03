@@ -35,7 +35,7 @@ And then throw it into your existing project file and
 pip3 install pyaudio
 It will suffice to say.
 
-For example, when you say "gohan", you can change it to say "Hi Osama" etc. in the code.
+For example, when you say "gohan", you can change it to say "Hi Usame" etc. in the code.
 
 
 And finally, I must say this. I used this voice assistant ready from google.
