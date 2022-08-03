@@ -12,10 +12,16 @@ A voice assistant program written in python.
 First of all, it is necessary to import several libraries in order for the program to run.
 
 import pyaudio
+
+
 from playsound import playsound
+
 from gtts import gTTS
+
 import speech_recognition
+
 import os
+
 
 It's important to use the correct python version for pyaudio, I'm using 3.10.5. I leave a link here for you to find the correct version: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 And then throw it into your existing project file and
