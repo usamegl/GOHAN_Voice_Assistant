@@ -1,7 +1,14 @@
 # Voice_Assistant
 A voice assistant program written in python.
                                                                                                                  
-                                                                                                                        
+                               
+      ______  _____  _     _ _______ __   _
+ |  ____ |     | |_____| |_____| | \  |
+ |_____| |_____| |     | |     | |  \_|
+                                                                  
+                               
+                               
+                               
 ----------- _____  ____  _    _       _   _ 
  / ____|/ __ \| |  | |   /\   | \ | |
 | |  __| |  | | |__| |  /  \  |  \| |
@@ -11,6 +18,25 @@ A voice assistant program written in python.
                                                
                                                                                                                         
                                                                                                                        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 First of all, it is necessary to import several libraries in order for the program to run.
 
