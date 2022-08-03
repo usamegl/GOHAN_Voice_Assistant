@@ -10,34 +10,18 @@ A voice assistant program written in python.
 
                                                                                                                         
                                                                                                                         
-        GGGGGGGGGGGGG     OOOOOOOOO     HHHHHHHHH     HHHHHHHHH               AAA               NNNNNNNN        NNNNNNNN
-     GGG::::::::::::G   OO:::::::::OO   H:::::::H     H:::::::H              A:::A              N:::::::N       N::::::N
-   GG:::::::::::::::G OO:::::::::::::OO H:::::::H     H:::::::H             A:::::A             N::::::::N      N::::::N
-  G:::::GGGGGGGG::::GO:::::::OOO:::::::OHH::::::H     H::::::HH            A:::::::A            N:::::::::N     N::::::N
- G:::::G       GGGGGGO::::::O   O::::::O  H:::::H     H:::::H             A:::::::::A           N::::::::::N    N::::::N
-G:::::G              O:::::O     O:::::O  H:::::H     H:::::H            A:::::A:::::A          N:::::::::::N   N::::::N
-G:::::G              O:::::O     O:::::O  H::::::HHHHH::::::H           A:::::A A:::::A         N:::::::N::::N  N::::::N
-G:::::G    GGGGGGGGGGO:::::O     O:::::O  H:::::::::::::::::H          A:::::A   A:::::A        N::::::N N::::N N::::::N
-G:::::G    G::::::::GO:::::O     O:::::O  H:::::::::::::::::H         A:::::A     A:::::A       N::::::N  N::::N:::::::N
-G:::::G    GGGGG::::GO:::::O     O:::::O  H::::::HHHHH::::::H        A:::::AAAAAAAAA:::::A      N::::::N   N:::::::::::N
-G:::::G        G::::GO:::::O     O:::::O  H:::::H     H:::::H       A:::::::::::::::::::::A     N::::::N    N::::::::::N
- G:::::G       G::::GO::::::O   O::::::O  H:::::H     H:::::H      A:::::AAAAAAAAAAAAA:::::A    N::::::N     N:::::::::N
-  G:::::GGGGGGGG::::GO:::::::OOO:::::::OHH::::::H     H::::::HH   A:::::A             A:::::A   N::::::N      N::::::::N
-   GG:::::::::::::::G OO:::::::::::::OO H:::::::H     H:::::::H  A:::::A               A:::::A  N::::::N       N:::::::N
-     GGG::::::GGG:::G   OO:::::::::OO   H:::::::H     H:::::::H A:::::A                 A:::::A N::::::N        N::::::N
-        GGGGGG   GGGG     OOOOOOOOO     HHHHHHHHH     HHHHHHHHHAAAAAAA                   AAAAAAANNNNNNNN         NNNNNNN
+----------- _____  ____  _    _       _   _ 
+ / ____|/ __ \| |  | |   /\   | \ | |
+| |  __| |  | | |__| |  /  \  |  \| |
+| | |_ | |  | |  __  | / /\ \ | . ` |
+| |__| | |__| | |  | |/ ____ \| |\  |
+ \_____|\____/|_|  |_/_/    \_\_| \_|------------
+                                               
                                                                                                                         
                                                                                                                         
                                                                                                                         
                                                                                                                         
-                                                                                                                        
-                                                                                                                        
-                                                                                                                   
-
-
-
-
-
+                                                                                                                  
 
 
 
