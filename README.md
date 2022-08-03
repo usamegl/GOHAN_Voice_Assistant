@@ -2,10 +2,7 @@
 A voice assistant program written in python.
                                                                                                                  
                                
-      ______  _____  _     _ _______ __   _
- |  ____ |     | |_____| |_____| | \  |
- |_____| |_____| |     | |     | |  \_|
-                                                                  
+               
                                
                                
                                
@@ -17,20 +14,7 @@ A voice assistant program written in python.
  \_____|\____/|_|  |_/_/    \_\_| \_|------------
                                                
                                                                                                                         
-                                                                                                                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+                                                                                                                     
  
  
  
