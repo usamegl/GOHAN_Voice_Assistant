@@ -18,7 +18,7 @@ A voice assistant program written in python.
  
  
  
- 
+ --------------------------------------EN-----------------------------------------------
  
  
  
@@ -41,7 +41,7 @@ For example, when you say "gohan", you can change it to say "Hi Osama" etc. in t
 And finally, I must say this. I used this voice assistant ready from google.
 
 
-
+---------------------------------------------------------TR-----------------------------------------------------------------------------------
 
 
 
