@@ -27,7 +27,11 @@ It's important to use the correct python version for pyaudio,
 
 I'm using 3.10.5. I leave a link here for you to find the correct version: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 And then throw it into your existing project file and
+
+
 pip3 install pyaudio
+
+
 It will suffice to say.
 
 For example, when you say "gohan", you can change it to say "Hi Usame" etc. in the code.
@@ -61,7 +65,11 @@ pyaudio için doğru python sürümünü kullanmak önemli, ben 3.10.5 kullanıy
 Ve sonrasında var olan proje dosyanız içine atıp
 
 
+
+
 pip3 install pyaudio 
+
+
 demeniz yeterli olacaktır.
 
 Örneğin "gohan" dediğinde "Hi Usame" demesini vesaire de siz kod içersinde değiştirebilirsiniz.
